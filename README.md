@@ -1,1 +1,1 @@
-this project is about git
+How to be up to date in git
