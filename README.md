@@ -1,1 +1,1 @@
-I love github
+“How to be up to date in git” 
